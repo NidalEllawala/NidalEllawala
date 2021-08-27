@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Arthur Nidall Ellawala, a full stack developer from London
 
 <!--
 **NidalEllawala/NidalEllawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
