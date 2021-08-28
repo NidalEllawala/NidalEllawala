@@ -10,7 +10,7 @@ Technologies I work with:
 - PostgreSQL/Sequelize
 - Socket.io
 
-##### Front-end
+#### Front-end
 - React.js
 - React Native
 - Redux
