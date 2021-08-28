@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Arthur Nidall Ellawala, a full stack developer from London
 
+- I'm a full-stack developer based in London. I work mostly in Javascript and Typescript and am currently learning Angular.
+
+- My Technologies:
+
+
 <!--
 **NidalEllawala/NidalEllawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
