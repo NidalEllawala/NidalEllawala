@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Arthur Nidall Ellawala, a full stack developer from London
 
-- I'm a full-stack developer based in London, working mostly with Javascript and Typescript.
+- I work mostly in Javascript and Typescript developing full-stack apps combining servers built with Node.js and front-end framkeworks like React.js and Angular
 
 - My languages and tools:
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Adventour a mobile app that allows users to explore the history and culture of new places in fun and interesting ways. 
 
 
-- 🌱 I’m currently learning Angular and exploring popular Javascript libraries. 
+- 🌱 I’m also learning Angular and exploring popular Javascript libraries. 
 
 
 <!--
