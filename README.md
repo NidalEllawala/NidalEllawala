@@ -1,14 +1,23 @@
 ### Hi there 👋 I'm Arthur Nidall Ellawala, a full stack developer from London
 
-- I work mostly in Javascript and Typescript developing full-stack apps combining servers built with Node.js and front-end framkeworks like React.js and Angular
+- I build web and mobile applications using javascript and Typescript and am currently working on Adventour a mobile app that allows users to explore the history and culture of new places in fun and interesting ways. 
 
-- My languages and tools:
+Technologies I work with:
+# Back-end
+- Express
+- Koa
+- MongoDB/Mongoose
+- PostgreSQL/Sequelize
+- Socket.io
+
+# Front-end
+- React.js
+- React Native
+- Redux
+- Socket.io
 
 
-- 🔭 I’m currently working on Adventour a mobile app that allows users to explore the history and culture of new places in fun and interesting ways. 
-
-
-- 🌱 I’m also learning Angular and exploring popular Javascript libraries. 
+- 🌱 I’m also learning Angular and exploring other back-end frameworks such as Nestjs. 
 
 
 <!--
