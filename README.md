@@ -17,7 +17,7 @@ Technologies I work with:
 - Socket.io
 
 
-- 🌱 I’m also learning Angular and exploring other back-end frameworks such as Nestjs. 
+ 🌱 I’m also learning Angular and exploring other back-end frameworks such as Nestjs. 
 
 
 <!--
