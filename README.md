@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Arthur Nidall Ellawala, a full stack developer from London
 
-- I build web and mobile applications using javascript and Typescript and am currently working on Adventour a mobile app that allows users to explore the history and culture of new places in fun and interesting ways. 
+- I build web and mobile applications using javascript and Typescript and am currently working on Adventour, a mobile app that allows users to explore the history and culture of new places in fun and interesting ways. 
 
 Technologies I work with:
 #### Back-end
